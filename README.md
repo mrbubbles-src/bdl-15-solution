@@ -22,8 +22,6 @@
   git init
   git add .
   git commit -m "first commit"
-  git .M main
-  git -M main
   git branch -M main
   git remote add origin git@github.com:mrbubbles-src/bdl-15-solution.git
   git push -u origin main
