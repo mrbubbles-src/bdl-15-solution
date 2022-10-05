@@ -26,7 +26,6 @@
   git remote add origin git@github.com:mrbubbles-src/bdl-15-solution.git
   git push -u origin main
   git branch -a
-  git branch new-branch
   git checkout -b new-branch 
   touch NEWREADME.md
   nano NEWREADME.md 
